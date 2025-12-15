@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev" : "tailwindcss -i ./assets/input.css -o ./assets/output.css --watch"
+    "dev": "tailwindcss -i ./assets/input.css -o ./assets/output.css --watch"
   },
   "keywords": [],
   "author": "",
@@ -12,5 +12,8 @@
   "devDependencies": {
     "@tailwindcss/cli": "^4.1.18",
     "tailwindcss": "^4.1.18"
+  },
+  "dependencies": {
+    "@midudev/tailwind-animations": "^0.2.0"
   }
 }
