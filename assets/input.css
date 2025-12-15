@@ -1,1 +1,13 @@
 @import "tailwindcss";
+
+@theme{
+  /* Colores */
+
+  --color-html : #E34F26;
+  --color-css : #1572b6;
+  --color-javascript : #F7DF1E;
+  --color-angular : #DD0031;
+  --color-react : #61DAFB;
+  --color-node : #339933;
+  --color-bootstrap : #7952B3;
+}
