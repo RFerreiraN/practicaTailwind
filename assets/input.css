@@ -1,6 +1,14 @@
 @import "tailwindcss";
 @plugin "@midudev/tailwind-animations";
 
+@config {
+  content: [
+    "./index.html",
+    "./src/**/*.{html,js}",
+    "./node_modules/flowbite/**/*.js"
+  ];
+}
+
 @theme{
   /* Colores */
 
