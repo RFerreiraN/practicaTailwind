@@ -11,4 +11,8 @@
   --color-react : #61DAFB;
   --color-node : #339933;
   --color-bootstrap : #7952B3;
+
+  /* Breakpoints */
+
+  --breakpoint-xs : 350px
 }
